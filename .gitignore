@@ -1,0 +1,59 @@
+# Data folder 
+data/
+# detectron
+/detectron2
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (if large)
+*.h5
+*.pkl
+*.pth
+*.onnx
+*.pb
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Image files
+*.png
+*.jpg
