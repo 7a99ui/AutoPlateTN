@@ -142,7 +142,7 @@ python test_crnn_model.py
    
 ---
 
-## 📈 Model Training (Optional)
+## Model Training (Optional)
 
 If you want to train your own models:
 
