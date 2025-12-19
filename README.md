@@ -166,5 +166,8 @@ If you want to train your own models:
 - Characters: `0123456789TN` (digits + Tunisia marker)
 
 
+
 **Star this repository if you find it helpful!**
 </div>
+
+
